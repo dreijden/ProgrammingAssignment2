@@ -2,7 +2,7 @@
 ## and the inverted matrix
 
 makeCacheMatrix <- function(originalMatrix = matrix()) {
-    ## X is a square invertable matrix. Check to decide if the matrix 
+    ## originalMatrix is a square invertable matrix. Check to decide if the matrix 
     ## is invertable is not required
     
     ## initialize the plceholder for the inverted cached matrix
